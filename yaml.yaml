@@ -1,0 +1,39 @@
+artist:
+    - main_artist: rob pajama
+      feat:
+        - dunk honeybee
+        - no belles
+      album_name: doctor in the house
+      year: 2019
+      rating: 7
+      runtime: 15.46
+      genre: electronic music
+      songs:
+        - name: going magnet
+          runtime: 02.58
+        - name: automatic faith
+          runtime: 03.37
+        - name: good lines
+          runtime: 02.28
+        - name: little light
+          runtime: 03.03
+        - name: still need rider
+          runtime: 03.40
+    - main_artist: figment of ruins
+      feat: []
+      album_name: committee of despair
+      year: 2017
+      rating: 9
+      runtime: 13.33
+      genre: nu metal
+      songs:
+        - name: naive move
+          runtime: 03.02
+        - name: progressive train
+          runtime: 02.33
+        - name: ace of teenage
+          runtime: 02.09
+        - name: little light
+          runtime: 03.39
+        - name: dreams of outside the box
+          runtime: 02.10
